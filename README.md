@@ -1,5 +1,5 @@
-# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 06/05/24
+# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 03.10.2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,13 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![image](https://github.com/divyakumars/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/1c0e44df-790d-48e5-b98d-d30c40c7f7b0)
+![image](https://github.com/Nethraa24/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121215786/02da129f-89ce-4930-9c2e-370f7089b7c1)
 
-![image](https://github.com/divyakumars/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/46f3bb22-9d0d-4b14-8c2d-ca88d8656dff)
-
-
-### Name:DIVYA.K
-### Register Number:212222230035
+### Name: DIVYA.K
+### Register Number: 212222230035
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
